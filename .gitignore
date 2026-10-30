@@ -1,0 +1,15 @@
+# Sub-repos e pastas de outros projetos
+elite-beauty-salon/
+
+# Pacotes e builds compactados
+*.zip
+
+# Sistema e IDE
+.gemini/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
